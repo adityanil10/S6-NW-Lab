@@ -1,0 +1,8 @@
+socket()
+bind()
+connect()
+listen()
+accept()
+send()/sendto()
+recv()/recvfrom()
+close()
